@@ -1,1 +1,1 @@
-# table-template
+# Table Inclusion and Styling
